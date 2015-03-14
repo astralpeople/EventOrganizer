@@ -9,3 +9,5 @@ Enjoy!
 The code was started bu Small Business App Production, SBAP. We are a small team of two dedicated to open source.
 
 http://eventorg.parseapp.com/
+
+"Полагаю, результат можно назвать «позорным провалом», но я предпочитаю термин «наработка опыта»" (c)
